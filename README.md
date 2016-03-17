@@ -23,7 +23,7 @@ RoboDuckie uses a number of open source projects to work properly:
  2- Install pip
 
 ```sh
-$ sudo apt-get install python-pip python-dev build-essential 
+~$ sudo apt-get install python-pip python-dev build-essential 
 ~$ sudo pip install --upgrade pip 
 ~$ sudo pip install --upgrade virtualenv 
 ```
@@ -77,7 +77,7 @@ Access_Token Secret
 ```
 ex:
 ```sh
-~RoboDuckie/$ python duck.py auth.txt pinput.txt 60
+~RoboDuckie/$ python duck.py auth.txt input.txt 60
 ```
 ### Future
 
