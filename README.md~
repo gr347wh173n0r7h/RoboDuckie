@@ -77,7 +77,7 @@ Access_Token Secret
 ```
 ex:
 ```sh
-~RoboDuckie/$ python duck.py auth.txt pinput.txt 60
+~RoboDuckie/$ python duck.py auth.txt input.txt 60
 ```
 ### Future
 

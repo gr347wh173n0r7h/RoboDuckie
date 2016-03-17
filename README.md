@@ -73,11 +73,11 @@ Access_Token Secret
 
 4- Run Duckie
 ```sh
-~RoboDuckie/$ python duck.py <authentication file> <input file> <sleep time in seconds>
+~RoboDuckie/$ python RoboDuckie.py <authentication file> <input file> <sleep time in seconds>
 ```
 ex:
 ```sh
-~RoboDuckie/$ python duck.py auth.txt input.txt 60
+~RoboDuckie/$ python RoboDuckie.py auth.txt input.txt 60
 ```
 ### Future
 
